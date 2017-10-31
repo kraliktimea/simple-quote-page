@@ -5,20 +5,22 @@
   width: 100vw;
   text-align: center;
   display: table;
+  color:#333;
 }
 .wrapper{
   display: table-cell;
-  padding-top: 3em;
+  padding-top: 4rem;
 }
 .quote{
-  padding: 2em;
+  padding: 1em 2em;
   text-transform: uppercase;
-  line-height: 2.5;
+  line-height: 1.5;
   letter-spacing: 2px;
   font-family: 'Julius Sans One', sans-serif;
-  font-size: 1.1em;
+  font-size: 2.2rem;;
 }
 .jjr{
+  padding-top: 3rem;
   font-family: 'Crimson Text', serif;
   font-style: italic;
 }
