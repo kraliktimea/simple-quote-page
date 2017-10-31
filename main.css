@@ -8,5 +8,17 @@
 }
 .wrapper{
   display: table-cell;
-  vertical-align: middle;
+  padding-top: 3em;
+}
+.quote{
+  padding: 2em;
+  text-transform: uppercase;
+  line-height: 2.5;
+  letter-spacing: 2px;
+  font-family: 'Julius Sans One', sans-serif;
+  font-size: 1.1em;
+}
+.jjr{
+  font-family: 'Crimson Text', serif;
+  font-style: italic;
 }
